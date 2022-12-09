@@ -1,0 +1,15 @@
+/Users/omar/GeekBrain/Last_Ex01/Last_Ex01/obj/Debug/net6.0/Last_Ex01.csproj.AssemblyReference.cache
+/Users/omar/GeekBrain/Last_Ex01/Last_Ex01/obj/Debug/net6.0/Last_Ex01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omar/GeekBrain/Last_Ex01/Last_Ex01/obj/Debug/net6.0/Last_Ex01.AssemblyInfoInputs.cache
+/Users/omar/GeekBrain/Last_Ex01/Last_Ex01/obj/Debug/net6.0/Last_Ex01.AssemblyInfo.cs
+/Users/omar/GeekBrain/Last_Ex01/Last_Ex01/obj/Debug/net6.0/Last_Ex01.csproj.CoreCompileInputs.cache
+/Users/omar/GeekBrain/Last_Ex01/Last_Ex01/bin/Debug/net6.0/Last_Ex01
+/Users/omar/GeekBrain/Last_Ex01/Last_Ex01/bin/Debug/net6.0/Last_Ex01.deps.json
+/Users/omar/GeekBrain/Last_Ex01/Last_Ex01/bin/Debug/net6.0/Last_Ex01.runtimeconfig.json
+/Users/omar/GeekBrain/Last_Ex01/Last_Ex01/bin/Debug/net6.0/Last_Ex01.dll
+/Users/omar/GeekBrain/Last_Ex01/Last_Ex01/bin/Debug/net6.0/Last_Ex01.pdb
+/Users/omar/GeekBrain/Last_Ex01/Last_Ex01/obj/Debug/net6.0/Last_Ex01.dll
+/Users/omar/GeekBrain/Last_Ex01/Last_Ex01/obj/Debug/net6.0/refint/Last_Ex01.dll
+/Users/omar/GeekBrain/Last_Ex01/Last_Ex01/obj/Debug/net6.0/Last_Ex01.pdb
+/Users/omar/GeekBrain/Last_Ex01/Last_Ex01/obj/Debug/net6.0/Last_Ex01.genruntimeconfig.cache
+/Users/omar/GeekBrain/Last_Ex01/Last_Ex01/obj/Debug/net6.0/ref/Last_Ex01.dll
